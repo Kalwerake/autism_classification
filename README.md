@@ -1,6 +1,6 @@
 # Machine Learning based Autism Spectrum Diagnosis
 
-This project is based on the ABIDE I dataset, avaible in a public AWS S3 Bucket.
+This project is based on the ABIDE I dataset, available in a public AWS S3 Bucket.
 Download scripts are included here.
 
 Abbreviations:
@@ -76,7 +76,7 @@ All raw and extracted data is named to be easily identified via a unique identif
 * twin_surrogates.py
 ## 2. Getting Started
 
-This project was built on Python 3.10, `requirments.txt` lists all required packages.
+This project was built on Python 3.10, `requirements.txt` lists all required packages.
 First step is to install all packages pip environment is recommended, since using conda threw out some errors.
 
 `! pip install requirements.txt`
