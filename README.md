@@ -131,7 +131,7 @@ It's best to use provided bash script in `bash_scripts\download.sh` simply chang
 
 ## 4. Cleaning phenotype description file
 
-There are severel issues with the downloaded phenotype description file `phenotype_files\Phenotypic_V1_0b_preprocessed.csv`. 
+There are several issues with the downloaded phenotype description file `phenotype_files/Phenotypic_V1_0b_preprocessed.csv`. 
 These issues and fixes are detailed in `EDA_notebooks/phenotype_EDA.ipynb`, this notebook also displays class distributions. 
 But the cleaned file `phenotype_files/pheno_clean.csv` is provided.
 
